@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --color-dark-primary: #1D1F26;
+  --color-dark-secondary: #31333A;
+
+  --color-dark-border-primary: #45474E;
+
+  --color-dark-accent-primary: #4468E4;
+  --color-dark-accent-secondary: #3656C5;
+
+  --font-dm-sans: "DM Sans", sans-serif;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
